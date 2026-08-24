@@ -19,26 +19,21 @@
 </p>
 
 
-<div align="center">
-    <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
-</div>
-
 # Guia de Estudos Notebooklm
 
+Projeto com o objetivo de gerar guias de estudos sobre desenvolvimento pessoal baseados nos conhecimentos de Napoleon Hill utilizando ferramentas de IA.
 
-Projeto com o objetivo de estudos de desenvolvimento pessoal baseados em Napoleon Hill utilizando ferramentas de IA.
-
-Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## 💻 Tecnologias utilizadas no projeto
 
-- [NoteBookLM](https://notebook.google.com) 
+- [NoteBookLM](https://notebook.google.com)
+- 
 
 ## ✨ Contextos e Objetivos
 
 - Estudos para o desenvolvimento pessoal baseado em Napoleon Hill
 - Pesquisas de bases para consulta via youtube e textos
-- 
+  
 - Objetivo de construir um guia para o desenvolvimento pessoal em todos os âmbitos
 
 
