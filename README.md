@@ -33,18 +33,31 @@ Projeto com o objetivo de gerar guias de estudos sobre desenvolvimento pessoal b
 
 - Estudos para o desenvolvimento pessoal baseado em Napoleon Hill
 - Pesquisas de bases para consulta via youtube e textos
-  
 - Objetivo de construir um guia para o desenvolvimento pessoal em todos os âmbitos
 
 
 ## 🛠️ Curadoria de Fontes
 
-- 
+Vídeos
+- https://youtu.be/BEl5Am_GOaI?si=zIiUKss3AONi6PLG
+- https://youtu.be/HtGY3_e9bT8?si=jOkBX6VwGwVWsIJd
+- https://www.youtube.com/watch?v=o1dTHqAsZEE&list=PLTJ0GZuhEMpkucmsOIdv3JrqlZju9B8vG
+- https://youtu.be/I3iReaig7Hs?si=uBXMfmcruC5eR4cv
+- https://youtu.be/dIgz7DKWx5s?si=bS_ku3DBVdn2F4Ul
+
+Textos
+- https://pt.wikipedia.org/wiki/Napoleon_Hill
+- https://mastermindminas.com.br/blog/livros-napoleon-hill-desenvolvimento-pessoal
+- https://moniquemarlley.medium.com/13-aprendizados-de-napoleon-hill-que-precisamos-dominar-e7826f7bc527
 
 
 ## 🛠️ Engenharia de Prompts e "Cicatrizes"
 
--
+- "crie um resumo estruturado"
+- "crie um glossário com  os principais pontos e conceitos"
+- "crie um mapa mental resumindo os princípios e lições para o desenvolvimento pessoal"
+
+## 🛠️ Mini Guia de Estudos
 
 
 ## 👨‍💻 Expert
