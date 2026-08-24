@@ -32,7 +32,7 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## 💻 Tecnologias utilizadas no projeto
 
-- [NoteBookLM]([https://notebook.google.com]) 
+- [NoteBookLM](https://notebook.google.com) 
 
 ## ✨ Como foi feito ?
 
