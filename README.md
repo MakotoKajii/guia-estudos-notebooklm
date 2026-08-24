@@ -34,18 +34,22 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
 - [NoteBookLM](https://notebook.google.com) 
 
-## ✨ Como foi feito ?
+## ✨ Contextos e Objetivos
 
+- Estudos para o desenvolvimento pessoal baseado em Napoleon Hill
 - Pesquisas de bases para consulta via youtube e textos
-- Adicionado ao NotebookLM
-- Escrever promps para geração de Mapas Mentais, resumos, podcast e outros
+- 
+- Objetivo de construir um guia para o desenvolvimento pessoal em todos os âmbitos
 
 
+## 🛠️ Curadoria de Fontes
+
+- 
 
 
+## 🛠️ Engenharia de Prompts e "Cicatrizes"
 
-## 🛠️ Instruções de execução
-
+-
 
 
 ## 👨‍💻 Expert
