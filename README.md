@@ -27,7 +27,6 @@ Projeto com o objetivo de gerar guias de estudos sobre desenvolvimento pessoal b
 ## 💻 Tecnologias utilizadas no projeto
 
 - [NoteBookLM](https://notebook.google.com)
-- 
 
 ## ✨ Contextos e Objetivos
 
@@ -60,6 +59,7 @@ Textos
 ## 🛠️ Mini Guia de Estudos
 
 - [Resumos](resumos.md)
+- [Glossário](glossario.md)
 
 ## 👨‍💻 Expert
 
