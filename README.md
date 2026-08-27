@@ -59,6 +59,7 @@ Textos
 
 ## 🛠️ Mini Guia de Estudos
 
+- [Resumos](resumos.md)
 
 ## 👨‍💻 Expert
 
